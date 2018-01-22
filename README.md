@@ -1,3 +1,3 @@
 Fist-Repo
 Modified with Tortoise Git!
-Conflict Resolution!
+Master branch Edit!
