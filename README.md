@@ -1,2 +1,2 @@
-# Fist-Repo
-# Modified with Tortoise Git!
+Fist-Repo
+Modified with Tortoise Git!
